@@ -1,2 +1,2 @@
-from baloch import exit
+from khan import exit
 exit()
